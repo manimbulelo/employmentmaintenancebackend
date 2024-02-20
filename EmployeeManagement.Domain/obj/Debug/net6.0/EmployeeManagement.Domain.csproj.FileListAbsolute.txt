@@ -1,0 +1,12 @@
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net6.0\EmployeeManagement.Domain.deps.json
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\refint\EmployeeManagement.Domain.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net6.0\ref\EmployeeManagement.Domain.dll

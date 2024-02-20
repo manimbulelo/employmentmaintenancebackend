@@ -1,0 +1,17 @@
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net6.0\EmployeeManagement.Core.deps.json
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net6.0\EmployeeManagement.Core.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net6.0\EmployeeManagement.Core.pdb
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net6.0\EmployeeManagement.Persistence.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net6.0\EmployeeManagement.Persistence.pdb
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\bin\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.csproj.AssemblyReference.cache
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.AssemblyInfo.cs
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.csproj.CopyComplete
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\refint\EmployeeManagement.Core.dll
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\EmployeeManagement.Core.pdb
+C:\Users\mbulelo.mani\source\repos\EmployeeManagement\EmployeeManagement.Core\obj\Debug\net6.0\ref\EmployeeManagement.Core.dll
